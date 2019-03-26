@@ -1,3 +1,3 @@
 # Augusto Guimarães - CV
 
-LaTeX Currivulo Vitae
+LaTeX Currivulo Vitae Versão Completa
